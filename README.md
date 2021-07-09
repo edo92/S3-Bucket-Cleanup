@@ -1,2 +1,3 @@
-# S3-Bucket-Cleanup
-Empty than Delete all s3 buckets
+1. Add access keys
+2. npm install
+3. npm run start
