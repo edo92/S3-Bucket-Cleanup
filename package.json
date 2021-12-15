@@ -1,8 +1,9 @@
 {
   "scripts": {
-    "start": "node index"
+    "start": "ts-node index.ts"
   },
   "dependencies": {
-    "aws-sdk": "^2.941.0"
+    "aws-sdk": "^2.1046.0",
+    "ts-node": "^10.4.0"
   }
 }
